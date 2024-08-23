@@ -1,4 +1,4 @@
-# PERSONAL-FINANCE-TRACKER-
+![image](https://github.com/user-attachments/assets/0e4efa8d-42c5-4184-9004-b5a7c7560746)# PERSONAL-FINANCE-TRACKER-
 PERSONAL FINANCE TRACKER:
 
 This is a simple Personal Finance Tracker implemented in C. It allows users to track their income and expenses, view records, delete expense records by date and type, and calculate net balance.
@@ -26,4 +26,6 @@ Compile the program using a C compiler such as GCC.
 Run the compiled executable.
 
 Choose options from the menu to perform desired operations.
+
+
 
